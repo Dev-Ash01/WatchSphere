@@ -2,7 +2,7 @@
 
 An intelligent movie discovery platform that provides personalized movie suggestions. This repository contains the complete data processing and model training pipeline that generates the files required for the final Streamlit web application.  
 
-Visit here: (https://mywatchsphere.streamlit.app/) 
+Visit here: https://mywatchsphere.streamlit.app/ 
 
 ---
 
