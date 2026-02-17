@@ -2,7 +2,7 @@
 
 An intelligent movie discovery platform that provides personalized movie suggestions. This repository contains the complete data processing and model training pipeline that generates the files required for the final Streamlit web application.  
 
-Visit here: https://moviematch11.streamlit.app/  
+Visit here: (https://mywatchsphere.streamlit.app/) 
 
 ---
 
@@ -14,11 +14,11 @@ The recommendation engine is built on cosine similarity applied to a carefully e
 
 ---
 
-<img width="1919" height="994" alt="Screenshot 1" src="https://github.com/user-attachments/assets/0b63d0d7-f8cc-4811-a2ff-85eb58017ade" />
+<img width="2557" height="1260" alt="Image" src="https://github.com/user-attachments/assets/d1edd44e-e099-446f-95cc-9652e5587798" />
 
 ---
 
-<img width="1919" height="973" alt="Screenshot 2" src="https://github.com/user-attachments/assets/636f38aa-8574-45c8-a44f-88425a90ad3f" />
+<img width="2456" height="1203" alt="Image" src="https://github.com/user-attachments/assets/2b4d87d1-0566-4b3a-8502-f3fbd1be2c99" />
 
 ---
 
@@ -51,11 +51,11 @@ The system follows a classic NLP-based pipeline:
 
 ---
 
-<img width="1909" height="994" alt="Screenshot 3" src="https://github.com/user-attachments/assets/80e8ad0c-608a-40f6-9417-0565df83917e" />
+<img width="2454" height="1199" alt="Image" src="https://github.com/user-attachments/assets/58667e45-1f8c-46e6-9726-c0aa47ff1ba1" />
 
 ---
 
-<img width="1919" height="988" alt="Screenshot 4" src="https://github.com/user-attachments/assets/936a32ce-89ea-42a8-bd8b-083120fc0ead" />
+<img width="2464" height="1201" alt="Image" src="https://github.com/user-attachments/assets/3dc05fa4-7948-4d7f-a26d-a1ea8854cd52" />
 
 ---
 
