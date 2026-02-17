@@ -339,7 +339,7 @@ with st.sidebar:
 
 # --- Main Page Content ---
 st.markdown("<a href='/?view=home' target='_self' class='nav-btn home-btn'>🏠 Home</a>", unsafe_allow_html=True)
-st.markdown("<h1 class='main-header'>🎬 MovieMatch</h1>", unsafe_allow_html=True)
+st.markdown("<h1 class='main-header'>🎬 WatchSphere</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center;'>Your Ultimate Movie Recommendation System</p>", unsafe_allow_html=True)
 
 # --- View Routing Logic ---
